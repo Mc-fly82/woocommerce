@@ -1,0 +1,219 @@
+.flex {
+  display: -webkit-box!important;
+  display: -ms-flexbox!important;
+  display: flex!important;
+}
+
+.center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flex-wrap-space-between {
+  -ms-flex-wrap: wrap!important;
+      flex-wrap: wrap!important;
+  -webkit-box-pack: justify!important;
+      -ms-flex-pack: justify!important;
+          justify-content: space-between!important;
+}
+
+.flex-wrap-space-around {
+  -ms-flex-wrap: wrap!important;
+      flex-wrap: wrap!important;
+  -ms-flex-pack: distribute!important;
+      justify-content: space-around!important;
+}
+
+.flex-stretch {
+  -webkit-box-align: stretch!important;
+      -ms-flex-align: stretch!important;
+          align-items: stretch!important;
+}
+
+.flex-grow {
+  -webkit-flex-grow: 1!important;
+  flex-grow: 1!important;
+}
+
+.flex-shrink {
+-webkit-flex-shrink: 1!important;
+flex-shrink: 1!important;
+}
+
+.flex-basis {
+-webkit-flex-basis: auto!important;
+flex-basis: auto!important;
+
+}
+
+
+
+.ul-strip {
+  margin: 0!important;
+  padding: 0!important;
+}
+
+.li-strip {
+  list-style-type: none!important;
+}
+.a-strip {
+  text-decoration: none!important;
+}
+
+.flex-button-1 {
+  display: block !important;
+  padding: .6em 1em !important;
+}
+.flex-button-2 {
+  display: block !important;
+  padding: 1em 1em !important;
+}
+.flex-button-3 {
+  display: block !important;
+  padding: 2em 1em !important;
+}
+.flex-button-4 {
+  display: block !important;
+  padding: 2.5em 1em !important;
+}
+
+
+
+.clear5 {
+  display: block !important;
+  width: 100% !important;
+  height: 5px !important;
+}
+
+.clear10 {
+  display: block !important;
+  width: 100% !important;
+  height: 10px !important;
+}
+
+.clear20 {
+  display: block !important;
+  width: 100% !important;
+  height: 20px !important;
+}
+
+.clear30 {
+  display: block !important;
+  width: 100% !important;
+  height: 30px !important;
+}
+
+.clear40 {
+  display: block !important;
+  width: 100% !important;
+  height: 40px !important;
+}
+
+.clear50 {
+  display: block !important;
+  width: 100% !important;
+  height: 50px !important;
+}
+
+.clear60 {
+  display: block !important;
+  width: 100% !important;
+  height: 60px !important;
+}
+
+.clear70 {
+  display: block !important;
+  width: 100% !important;
+  height: 70px !important;
+}
+
+.clear80 {
+  display: block !important;
+  width: 100% !important;
+  height: 80px !important;
+}
+
+.clear90 {
+  display: block !important;
+  width: 100% !important;
+  height: 90px !important;
+}
+
+.clear100 {
+  display: block !important;
+  width: 100% !important;
+  height: 100px !important;
+}
+
+
+/* Full width Classes: */
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .xs-w100 {
+      width: 100%!important;
+    }
+    .xs-imgc {
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    /* For mobile tablet: */
+    .sm-w100 {
+      width: 100%!important;
+    }
+    .sm-imgc {
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+}
+
+@media only screen and (min-width: 992px) {
+    /* For mobile desktop: */
+    .md-w100 {
+      width: 100%!important;
+
+    }
+    .md-imgc {
+      display: block !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+    }
+
+}
+
+/*center text*/
+.center {
+  text-align: center!important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.margin-x-0 {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.padding-x-0 {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.margin-y-0 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+.padding-y-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+.margin-0 {
+  margin: 0 !important;
+}
+
+.block {
+  display: block!important;
+}

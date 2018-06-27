@@ -1,0 +1,34 @@
+.content-single-product {
+  padding-top: 31px !important;
+}
+
+.content-single-product p {
+  background-color: rgba(255, 255, 255, 0.47);
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.content-single-product h1 {
+  padding-top: 15px !important;
+}
+
+.content-single-product .cart {
+  padding-top: 50px;
+}
+
+.content-single-product .description_tab {
+  margin: 0 !important;
+}
+
+.content-single-product p {
+  font-family: "Marker Felt",Arial,sans-serif;
+  font-size: 2em !important;
+}
+
+.content-single-product .add_to_cart_button {
+  background: #b7b4b4;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 5px;
+  border-radius: 5px;
+}

@@ -1,0 +1,44 @@
+#menu-menu2 {
+  background-color: #000;
+  min-height: 50px;
+}
+
+#menu-menu2 a {
+  background-color: #000;
+  border-radius: 0;
+  font-family: 'Marker Felt';
+  font-size: 2.6rem;
+}
+
+#menu-menu2 a:hover {
+  background-color: #000 !important;
+}
+
+#menu2 div {
+  max-width: 830px;
+}
+
+#menu2 {
+  background-color: #000 !important;
+}
+
+#menu2 ul {
+  /*max-width: 830px*/
+}
+
+#menu2 li {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+/*# portable*/
+@media only screen and (max-width: 768px) {
+  #menu-menu2 {
+    display: block !important;
+    text-align: center;
+  }
+}
+
+/*# tablette*/
+/*# screen*/
+/*# tablette*/

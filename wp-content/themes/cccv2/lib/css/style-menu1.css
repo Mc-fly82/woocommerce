@@ -1,0 +1,30 @@
+#menu1 {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 20px;
+  background-color: transparent;
+  padding-top: 15px;
+}
+
+#menu1 a {
+  border-radius: 0 !important;
+  /*padding: 20px	*/
+  height: 52px;
+  padding: 8px 25px;
+  font-size: 2rem;
+  font-family: "Marker Felt",Arial,sans-serif;
+  text-transform: capitalize;
+}
+
+#menu-menu1 a {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+nav#menu1 {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
